@@ -1,0 +1,18 @@
+final Map<String, String> carLogos = {
+  "Toyota": "assets/logos/toyota.png",
+  "Honda": "assets/logos/honda.png",
+  "BMW": "assets/logos/bmw.png",
+  "Mercedes": "assets/logos/mercedes.png",
+  "Audi": "assets/logos/audi.png",
+  "Ford": "assets/logos/ford.png",
+  "Chevrolet": "assets/logos/chevrolet.png",
+  "Hyundai": "assets/logos/hyundai.png",
+  "Kia": "assets/logos/kia.png",
+  "Nissan": "assets/logos/nissan.png",
+  "Volkswagen": "assets/logos/volkswagen.png",
+  "Lexus": "assets/logos/lexus.png",
+  "Mazda": "assets/logos/mazda.png",
+  "Subaru": "assets/logos/subaru.png",
+  "Tesla": "assets/logos/tesla.png",
+  "Porsche": "assets/logos/porsche.png",
+};
